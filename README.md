@@ -1,6 +1,7 @@
 # Customer-Churn-
 
-## A complete project in predicting customer churn of PowerCo
+## A complete project of predicting customer churn for PowerCo
+
 
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment.
 
